@@ -4085,6 +4085,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C557685"
+			(at 158.75 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a41b707c-d9dd-4a72-9260-554e52ea27dd")
 		)
@@ -4198,7 +4209,7 @@
 				)
 			)
 		)
-		(property "Value" "1N4001"
+		(property "Value" "1N5819HW-7-F"
 			(at 81.28 26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4263,7 +4274,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C82544"
 			(at 81.28 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -4411,7 +4422,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "16n"
+		(property "Value" "15n"
 			(at 139.7 85.0962 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4455,7 +4466,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C519550"
 			(at 142.24 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -4569,7 +4580,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C14663"
 			(at 149.86 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -4760,7 +4771,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C14663"
 			(at 96.52 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5335,7 +5346,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C1855776"
 			(at 120.65 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -5505,7 +5516,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C80670"
 			(at 45.72 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -5706,7 +5717,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C95177"
 			(at 31.75 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -5818,7 +5829,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C95177"
 			(at 66.04 92.71 90)
 			(hide yes)
 			(show_name no)
@@ -6186,6 +6197,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C557685"
+			(at 166.37 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6c80d5ea-3152-44cf-b822-580c0378b08c")
 		)
@@ -6268,7 +6290,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C913904"
 			(at 129.54 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -6505,7 +6527,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -6917,7 +6939,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C913904"
 			(at 31.75 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -7074,7 +7096,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 88.9 24.638 90)
 			(hide yes)
 			(show_name no)
@@ -7107,7 +7129,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C441940"
 			(at 88.9 22.86 90)
 			(hide yes)
 			(show_name no)
@@ -7299,7 +7321,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C14663"
 			(at 111.76 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -7567,7 +7589,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C913904"
 			(at 58.42 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -7681,7 +7703,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C1664"
 			(at 140.97 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -7735,7 +7757,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7883,7 +7905,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 145.542 66.04 90)
 			(hide yes)
 			(show_name no)
@@ -7916,7 +7938,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C5972814"
 			(at 147.32 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -8184,7 +8206,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C95177"
 			(at 58.42 97.79 0)
 			(hide yes)
 			(show_name no)
